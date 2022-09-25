@@ -27,6 +27,12 @@ int main()
 	car4.SetCar_Type("motorcycle");
 	car2.SetCar_Type("Bus");
 	car3.SetCar_Type("Truck");
+
+	car1.SetCar_Plate("ABC123");
+	car2.SetCar_Plate("JFG542");
+	car3.SetCar_Plate("GVC982");
+	car4.SetCar_Plate("FDE652");
+
 	
 	
 	
